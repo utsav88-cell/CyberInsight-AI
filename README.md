@@ -109,4 +109,4 @@ Minor Project (Semester 7)
 
 ---
 
-⭐ This project is being developed as part of the B.Tech Minor Project to improve cyber awareness through AI-assisted cybersecurity analysis.
+
