@@ -2,7 +2,7 @@
 
 # Intelligent Cyber Threat Analysis Platform
 
-###  Project Overview
+### 📌 Project Overview
 
 CyberInsight AI is an AI-assisted cybersecurity platform that performs static security analysis of APK files, EXE files, and URLs before they are installed or executed.
 
